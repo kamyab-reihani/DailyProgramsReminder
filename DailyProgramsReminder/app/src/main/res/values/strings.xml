@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DPR</string>
+    <string name="channel_name">Alarm Notifications Channel</string>
+    <string name="channel_description">This Channel is used to notify the user about
+    due plans in coming days based on a specified alarm date.</string>
+    <string name="homePath">/Home</string>
+    <string name="planDetailsActivityTitle">View Plan Details</string>
+    <string name="plan_title">Plan Title</string>
+    <string name="plan_has_a_date">Plan has a Date</string>
+    <string name="plan_due_date">Plan Due Date:</string>
+    <string name="choose_a_due_date">Choose a Due Date</string>
+    <string name="plan_alarm_date">Plan Alarm Date:</string>
+    <string name="choose_an_alarm_date">Choose An Alarm Date</string>
+    <string name="repeat">Repeat:</string>
+    <string name="plan_description">Plan Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="approve">Approve</string>
+    <string name="from_date">From Date:</string>
+    <string name="to_date">To Date:</string>
+    <string name="show_results">Show Results</string>
+    <string name="viewPlansPath">/All Plans</string>
+    <string name="filters">Filters</string>
+    <string name="clear">Clear</string>
+    <string name="show_undone">Show Undone</string>
+</resources>
